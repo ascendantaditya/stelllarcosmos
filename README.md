@@ -1,6 +1,6 @@
-# PlanetCosmos
+# Stellar Cosmos
 
- PlanetCosmos is a responsive webpage, I have made to show my love for astronomy :heart_eyes: I have used HTML, CSS and JavaScript.
+ Stellar Cosmos is a responsive webpage, I have made to show my love for astronomy :heart_eyes: I have used HTML, CSS and JavaScript.
  
  Live link :- https://planet-Cosmos.vercel.app/
  
